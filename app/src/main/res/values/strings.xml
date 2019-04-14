@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CachManager</string>
+    <string name="TAG">Error</string>
+   </resources>
